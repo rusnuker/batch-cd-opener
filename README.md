@@ -12,3 +12,7 @@ Open and close CD tray from a command-line!
 `cd.exe open` -- Open the tray
 
 `cd.exe close` -- Close the tray
+
+## Notes
+
+Closing fucntion might not work especially on laptops.
