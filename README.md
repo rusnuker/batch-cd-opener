@@ -3,15 +3,15 @@ Open and close CD tray from a command-line!
 
 ## Compiling 
 
-`gcc -o cd.exe cd.c -lwinmm`
+`gcc -o cd-opener.exe cd.c -lwinmm`
 
 ...or just get an exe-file fron Releases!
 
 ## Usage
 
-`cd.exe open` -- Open the tray
+`cd-opener.exe open` -- Open the tray
 
-`cd.exe close` -- Close the tray
+`cd-opener.exe close` -- Close the tray
 
 ## Notes
 
